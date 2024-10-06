@@ -21,4 +21,22 @@
     <string name="about">About:</string>
     <string name="years_old">%d years old</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>
+    <string name="description_1">Koda enjoys spending time outdoors, especially indulging in treats on the terrace. This little one loves snacking while enjoying the fresh air</string>
+    <string name="description_2">Despite her age, Lola still has a lot of energy, especially when it comes to barking at Daddy. She’s always on alert and ready to make her presence known!</string>
+    <string name="description_3">Frankie has a mischievous streak, stealing socks and making everyone chase him around. He keeps things lively with his playful antics.</string>
+    <string name="description_4">Nox loves meeting new animals, making every encounter an exciting adventure. His curiosity keeps him engaged and friendly towards new friends.</string>
+    <string name="description_5">Faye is a natural digger, spending her time happily working in the garden. She enjoys creating her own little spots and exploring the outdoors.</string>
+    <string name="description_6">Even in her golden years, Bella still loves chasing sea foam along the beach, enjoying the freedom and joy of the seaside.</string>
+    <string name="description_7">Moana is known for bothering her paw-rents, always demanding attention and making sure shes the center of the action.</string>
+    <string name="description_8">Tzeitel loves to soak up the sun and relax, often found sunbathing and enjoying the warmth and peace.</string>
+    <string name="description_9">Leroy is an adventurous sleeper, often choosing dangerous or unusual spots for his naps. His bold choices keep his owners on their toes!</string>
+    <string name="id_1">1</string>
+    <string name="id_2">2</string>
+    <string name="id_3">3</string>
+    <string name="id_4">4</string>
+    <string name="id_5">5</string>
+    <string name="id_6">6</string>
+    <string name="id_7">7</string>
+    <string name="id_8">8</string>
+    <string name="id_9">9</string>
 </resources>
